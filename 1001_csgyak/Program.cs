@@ -22,7 +22,7 @@ namespace _1001_csgyak
             Console.WriteLine("Nyomj minden feladat után egy gombot, hogy a program tovább menjen.");
             Next();
 
-            /*// 1. feladat (nev10)
+            // 1. feladat (nev10)
             Console.WriteLine("1. feladat");
             for (int i = 0; i < 10; i++) Console.WriteLine("Zvolenszki Benjámin");
             Next();
@@ -67,7 +67,7 @@ namespace _1001_csgyak
                 Thread.Sleep(500);
                 if (i > 0) Console.Clear();
             }
-            Next();*/
+            Next();
 
             // 5-6. feladat (randomcsillag & randomszin)
             Console.WriteLine("5-6. feladat");
